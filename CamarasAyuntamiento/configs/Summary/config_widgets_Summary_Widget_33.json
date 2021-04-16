@@ -1,0 +1,19 @@
+{
+  "displayCluster": true,
+  "showFeatureCount": true,
+  "featureCountLabel": "TOTAL",
+  "summaryLayer": {
+    "fields": [
+      {
+        "type": "SUM",
+        "label": "",
+        "field": "SymbolID"
+      }
+    ],
+    "id": "Cámaras_Tráfico_9393",
+    "name": "Cámaras Tráfico",
+    "filterField": "Name",
+    "url": "Cámaras_Tráfico_9393"
+  },
+  "refreshInterval": null
+}
